@@ -16,8 +16,7 @@ Highlights include:
 - Created the dbt and pipeline architecture powering the platform, ensuring reliability and long-term auditability.  
 - Owned 45–50 core data models feeding over 1,150 reporting outputs across compliance and business teams.  
 - Delivered enterprise-wide analytics platforms and governance frameworks in Azure and GCP environments.  
-- Led teams, established engineering standards, and mentored junior engineers.  
-:contentReference[oaicite:0]{index=0}
+- Led teams, established engineering standards, and mentored junior engineers.
 
 You can reach me at: **tom.mitchell@trend-labs.co.uk**
 
