@@ -54,10 +54,4 @@ Connect with me on:
 
 ---
 
-## Contributions
-
-![Tom's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tommitchell95&theme=github-dark&hide_border=true)
-
----
-
 Thanks for stopping by.
