@@ -43,6 +43,8 @@ Connect with me on:
 - Terraform  
 
 ### Analytics & Data Platforms
+- Looker/Looker Studio
+- Apache Iceberg
 - Power BI  
 - Databricks  
 
