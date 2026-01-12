@@ -1,7 +1,6 @@
-# Hi there, I'm Tom.
+# Hi, I'm Tom.
 
-I’m a Backend & Analytics Engineer with 8+ years of experience delivering data-driven platforms across fintech, telecoms, and e-commerce.  
-I work as an independent consultant through my UK Ltd, helping organisations build reliable data systems, scalable pipelines, and trusted analytics capabilities.
+I’m a Backend & Analytics Engineer with 8+ years of experience delivering data-driven platforms across fintech, telecoms, and e-commerce. I work as an independent consultant through my UK Ltd, helping organisations build reliable data systems, scalable pipelines, and trusted analytics capabilities.
 
 My focus is on maintainable engineering, reproducibility, and accuracy—particularly in high-stakes environments such as regulatory reporting and financial data processing.
 
